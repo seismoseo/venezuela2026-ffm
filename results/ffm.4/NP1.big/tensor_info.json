@@ -1,0 +1,19 @@
+{
+    "centroid_depth": 20.294,
+    "centroid_lat": 10.436,
+    "centroid_lon": -68.5277,
+    "datetime": "2026-06-24T22:04:33",
+    "depth": 20.294,
+    "half_duration": 17.5,
+    "lat": 10.436,
+    "lon": -68.5277,
+    "moment_mag": 2.895755884697153e+27,
+    "mpp": -4.161e+26,
+    "mrp": -8.309e+26,
+    "mrr": -7.576e+25,
+    "mrt": -1.511e+26,
+    "mtp": -2.732e+27,
+    "mtt": 4.918e+26,
+    "time_shift": 17.5,
+    "timedelta": 467219.350825
+}

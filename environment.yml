@@ -1,0 +1,12 @@
+name: venezuela2026-ffm
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - pillow
+  - pygmt        # only for fig_station_map_global.py (global station map)
+  - jupyterlab
+  - nbconvert
