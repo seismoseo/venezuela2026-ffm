@@ -65,6 +65,10 @@ orbital ramp.
 | **ffm.5** | 09 | Longer teleseismic body window (70 → 100 s, matching USGS) — tightens rupture duration |
 | **ffm.6** | 10 | **Joint** inversion: adds Sentinel-1 InSAR (2 tracks, 2629 LOS points) |
 | — | 11 | Seismic-only (ffm.5) vs joint-InSAR (ffm.6) comparison **+ an InSAR primer for non-experts** |
+| **ffm.7** | 12 | Body-wave **frequency-band** experiment (long-period body): effect on P/SH fits vs resolution |
+
+**Background reading:** see [`REFERENCES.md`](REFERENCES.md) for an annotated reading list on the
+WISP wavelet-domain finite-fault inversion strategy.
 
 ## What is and isn't in this repository
 
@@ -82,6 +86,7 @@ notebooks/
   09_longwindow_ffm5.ipynb                     # longer body window; window-length effect on duration
   10_joint_insar_ffm6.ipynb                    # JOINT teleseismic + InSAR inversion (all phases + InSAR fit)
   11_seismic_vs_joint_insar.ipynb              # seismic-only vs joint comparison + InSAR primer
+  12_bodywave_frequency_band.ipynb             # body-wave frequency band: P/SH fit vs resolution
 scripts/
   fig_fault_isochrone.py        # true-1:1-scale slip + rupture-front isochrones; rise-time map
   fig_insar.py                  # InSAR observed/modeled/residual LOS maps
