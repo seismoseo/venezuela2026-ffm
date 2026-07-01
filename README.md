@@ -27,6 +27,26 @@ toward Caracas). Adding InSAR (a constraint **neither the USGS FFM nor our earli
 keeps Mw 7.57 and the moment-rate function, but **refines the slip** — pulling the coastal slip
 ~2 km deeper and reducing shallow slip the teleseismic data alone over-estimated.
 
+## Representative figures — joint teleseismic + InSAR model (ffm.6)
+
+**Coseismic slip distribution** — unilateral eastward rupture, peak slip shallow and ~30–120 km east of the hypocentre (star), offshore toward Caracas:
+
+![Joint coseismic slip distribution](figures/joint_slip_distribution.png)
+
+**On-fault slip with rupture-front isochrones** (true 1:1 scale; white contours every 5 s; front to ~95 s, subshear):
+
+![Slip and rupture-front isochrones](figures/joint_slip_isochrones.png)
+
+**InSAR line-of-sight fit** — observed, modeled (slip + orbital ramp), and residual for the two Sentinel-1 tracks (variance reduction ≈ 0.97 for the large descending scene). Red = motion away from the satellite, blue = toward:
+
+![InSAR line-of-sight fit](figures/joint_insar_fit.png)
+
+**Moment-rate function vs USGS** — an independent cross-check (both peak at ~40 s, ~95 s duration, Mw ≈ 7.5–7.57):
+
+![Moment-rate function vs USGS](figures/moment_rate_vs_usgs.png)
+
+*(Full waveform-fit panels — P, SH, Rayleigh, Love — the rise-time map, and the seismic-only vs joint comparison are in [notebook 10](notebooks/10_joint_insar_ffm6.ipynb) and [notebook 11](notebooks/11_seismic_vs_joint_insar.ipynb).)*
+
 ## Method
 
 The inversion uses **WISP** (`neic-finitefault`; Ji, Koch & Goldberg — the USGS NEIC method), a
