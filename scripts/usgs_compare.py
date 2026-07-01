@@ -1,5 +1,5 @@
 """
-usgs_compare.py — Compare this study's WISP finite-fault model (ffm.4) with the
+usgs_compare.py — Compare a WISP finite-fault model (run auto-labelled) with the
 published USGS NEIC model (files in data/usgs/).
 
 Parses:
@@ -82,9 +82,15 @@ def _ew_km(lon, lat):
     return (lon - EPI_LON) * 111.32 * np.cos(np.radians(lat))
 
 
+def _runtag(mine_run):
+    """Derive the run label (e.g. 'ffm.6') from the NP directory path."""
+    return os.path.basename(os.path.dirname(os.path.normpath(mine_run)))
+
+
 # ---------- figures ----------
-def plot_stf(mine_run, usgs_dir, out=None):
+def plot_stf(mine_run, usgs_dir, out=None, label=None):
     _helvetica()
+    tag = label or _runtag(mine_run)
     out = out or os.path.join(mine_run, "plots", "Compare_STF.png")
     tm, mm = parse_mr(os.path.join(mine_run, "STF.txt"))
     tu, mu = parse_mr(os.path.join(usgs_dir, "moment_rate.mr"))
@@ -92,7 +98,7 @@ def plot_stf(mine_run, usgs_dir, out=None):
     fig, ax = plt.subplots(figsize=(9, 4.2))
     ax.fill_between(tu, mu / 1e19, color="0.75", label=f"USGS NEIC ($M_0$={Mo_u:.2e} Nm)")
     ax.plot(tm, mm / 1e19, color="#c0392b", lw=1.8,
-            label=f"This study, ffm.4 ($M_0$={Mo_m:.2e} Nm)")
+            label=f"This study, {tag} ($M_0$={Mo_m:.2e} Nm)")
     ax.set_xlim(0, max(tu.max(), tm.max())); ax.set_ylim(bottom=0)
     ax.set_xlabel("Time after origin (s)")
     ax.set_ylabel(r"Moment rate ($\times10^{19}$ Nm/s)")
@@ -104,14 +110,15 @@ def plot_stf(mine_run, usgs_dir, out=None):
     return out
 
 
-def plot_slip_map(mine_run, usgs_dir, out=None):
+def plot_slip_map(mine_run, usgs_dir, out=None, label=None):
     _helvetica()
+    tag = label or _runtag(mine_run)
     out = out or os.path.join(mine_run, "plots", "Compare_slip_map.png")
     me = parse_solution(os.path.join(mine_run, "Solution.txt"))
     us = parse_fsp(os.path.join(usgs_dir, "complete_inversion.fsp"))
     vmax = max(me["slip"].max(), us["slip"].max())
     fig, axes = plt.subplots(2, 1, figsize=(11, 6), sharex=True, sharey=True)
-    for ax, d, ttl in [(axes[0], me, "This study (ffm.4, single segment)"),
+    for ax, d, ttl in [(axes[0], me, f"This study ({tag}, single segment)"),
                        (axes[1], us, "USGS NEIC (two segments)")]:
         sc = ax.scatter(d["lon"], d["lat"], c=d["slip"], cmap="magma_r", vmin=0, vmax=vmax,
                         s=90, marker="s", edgecolor="none")
@@ -126,9 +133,10 @@ def plot_slip_map(mine_run, usgs_dir, out=None):
     return out
 
 
-def plot_slip_profile(mine_run, usgs_dir, out=None):
+def plot_slip_profile(mine_run, usgs_dir, out=None, label=None):
     """Dip-summed slip vs along-strike (E-W) distance from epicenter, both models."""
     _helvetica()
+    tag = label or _runtag(mine_run)
     out = out or os.path.join(mine_run, "plots", "Compare_slip_profile.png")
     me = parse_solution(os.path.join(mine_run, "Solution.txt"))
     us = parse_fsp(os.path.join(usgs_dir, "complete_inversion.fsp"))
@@ -144,7 +152,7 @@ def plot_slip_profile(mine_run, usgs_dir, out=None):
 
     fig, ax = plt.subplots(figsize=(9, 4.2))
     ax.fill_between(ctr, profile(us), step="mid", color="0.75", label="USGS NEIC")
-    ax.plot(ctr, profile(me), drawstyle="steps-mid", color="#c0392b", lw=1.8, label="This study (ffm.4)")
+    ax.plot(ctr, profile(me), drawstyle="steps-mid", color="#c0392b", lw=1.8, label=f"This study ({tag})")
     ax.axvline(0, color="0.4", lw=0.8, ls="--")
     ax.set_xlabel("Along-strike distance east of epicentre (km)")
     ax.set_ylabel("Mean slip over down-dip (m)")

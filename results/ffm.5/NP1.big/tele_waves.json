@@ -1,0 +1,1123 @@
+[
+    {
+        "azimuth": 0.8453050321693517,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 72.13961411709582,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_II_ALE_BHZ.sac",
+        "location": [
+            82.50330352783203,
+            -62.349998474121094
+        ],
+        "name": "ALE",
+        "observed": null,
+        "start_signal": 601,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 8.161666414427712,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 57.795490940204076,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_IU_SFJD_BHZ.sac",
+        "location": [
+            66.99610137939453,
+            -50.62076187133789
+        ],
+        "name": "SFJD",
+        "observed": null,
+        "start_signal": 599,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 11.17872486891652,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 77.99439073114831,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_IU_KBS_BHZ.sac",
+        "location": [
+            78.91539764404297,
+            11.93850040435791
+        ],
+        "name": "KBS",
+        "observed": null,
+        "start_signal": 602,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 20.343117931471973,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 82.21094375930939,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_IU_KEV_BHZ.sac",
+        "location": [
+            69.75650024414062,
+            27.00349998474121
+        ],
+        "name": "KEV",
+        "observed": null,
+        "start_signal": 603,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 30.784404280530122,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 75.09282925275812,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_IU_KONO_BHZ.sac",
+        "location": [
+            59.652099609375,
+            9.594599723815918
+        ],
+        "name": "KONO",
+        "observed": null,
+        "start_signal": 602,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 34.03123914664105,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 67.5603961207938,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_II_ESK_BHZ.sac",
+        "location": [
+            55.31669998168945,
+            -3.2049999237060547
+        ],
+        "name": "ESK",
+        "observed": null,
+        "start_signal": 602,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 38.939133387571786,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 86.9234291399701,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_IU_KIEV_BHZ.sac",
+        "location": [
+            50.70119857788086,
+            29.224199295043945
+        ],
+        "name": "KIEV",
+        "observed": null,
+        "start_signal": 603,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 45.4909491527524,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 70.81351069514207,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_G_SSB_BHZ.sac",
+        "location": [
+            45.27899932861328,
+            4.541999816894531
+        ],
+        "name": "SSB",
+        "observed": null,
+        "start_signal": 603,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 47.30139126004286,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 47.22383183337985,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_II_CMLA_BHZ.sac",
+        "location": [
+            37.76369857788086,
+            -25.52429962158203
+        ],
+        "name": "CMLA",
+        "observed": null,
+        "start_signal": 601,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 50.83936393197726,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 63.61982496946372,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_IU_PAB_BHZ.sac",
+        "location": [
+            39.54460144042969,
+            -4.349899768829346
+        ],
+        "name": "PAB",
+        "observed": null,
+        "start_signal": 603,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 62.12087119339435,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 51.84684135899903,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_IU_MACI_BHZ.sac",
+        "location": [
+            28.250200271606445,
+            -16.50819969177246
+        ],
+        "name": "MACI",
+        "observed": null,
+        "start_signal": 603,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 69.28954138127011,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 71.52339841091478,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_G_TAM_BHZ.sac",
+        "location": [
+            22.79149055480957,
+            5.528379917144775
+        ],
+        "name": "TAM",
+        "observed": null,
+        "start_signal": 604,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 79.73011917322766,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 51.005896917560094,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_G_SOK_BHZ.sac",
+        "location": [
+            14.494490623474121,
+            -16.456298828125
+        ],
+        "name": "SOK",
+        "observed": null,
+        "start_signal": 604,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 106.69325635829662,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 57.02860348935508,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_II_ASCN_BHZ.sac",
+        "location": [
+            -7.932700157165527,
+            -14.360099792480469
+        ],
+        "name": "ASCN",
+        "observed": null,
+        "start_signal": 602,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 112.27064949475535,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 67.56355555067813,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_II_SHEL_BHZ.sac",
+        "location": [
+            -15.959400177001953,
+            -5.745500087738037
+        ],
+        "name": "SHEL",
+        "observed": null,
+        "start_signal": 602,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 172.72601923574427,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 62.591474760508,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_II_EFI_BHZ.sac",
+        "location": [
+            -51.67530059814453,
+            -58.06370162963867
+        ],
+        "name": "EFI",
+        "observed": null,
+        "start_signal": 594,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 182.60502558515688,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 43.452717754461105,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_G_PEL_BHZ.sac",
+        "location": [
+            -33.14360809326172,
+            -70.67494201660156
+        ],
+        "name": "PEL",
+        "observed": null,
+        "start_signal": 593,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 288.9993226320225,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 83.87609572324901,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_IU_POHA_BHZ.sac",
+        "location": [
+            19.757299423217773,
+            -155.5325927734375
+        ],
+        "name": "POHA",
+        "observed": null,
+        "start_signal": 604,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 305.643286143021,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 49.582630863830516,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_II_XPFO_BHZ.sac",
+        "location": [
+            33.61069869995117,
+            -116.45549774169922
+        ],
+        "name": "XPFO",
+        "observed": null,
+        "start_signal": 602,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 309.92451317530146,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 46.235670638738064,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_US_WUAZ_BHZ.sac",
+        "location": [
+            35.51689910888672,
+            -111.3739013671875
+        ],
+        "name": "WUAZ",
+        "observed": null,
+        "start_signal": 601,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 311.5255569435534,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 42.32289283559336,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_IU_ANMO_BHZ.sac",
+        "location": [
+            34.9459114074707,
+            -106.45719909667969
+        ],
+        "name": "ANMO",
+        "observed": null,
+        "start_signal": 601,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 315.7119240032791,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 42.94138464993682,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_US_SDCO_BHZ.sac",
+        "location": [
+            37.745601654052734,
+            -105.5011978149414
+        ],
+        "name": "SDCO",
+        "observed": null,
+        "start_signal": 600,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 316.6322631670027,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 57.96482427856908,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_IU_COR_BHZ.sac",
+        "location": [
+            44.58549880981445,
+            -123.30460357666016
+        ],
+        "name": "COR",
+        "observed": null,
+        "start_signal": 602,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 318.417913560622,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 51.641470693214615,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_US_HLID_BHZ.sac",
+        "location": [
+            43.5625,
+            -114.41380310058594
+        ],
+        "name": "HLID",
+        "observed": null,
+        "start_signal": 601,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 321.91259233512807,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 50.82348466627508,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_US_BOZ_BHZ.sac",
+        "location": [
+            45.59696960449219,
+            -111.62966918945312
+        ],
+        "name": "BOZ",
+        "observed": null,
+        "start_signal": 600,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 322.4940822507991,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 49.14924335368427,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_US_RLMT_BHZ.sac",
+        "location": [
+            45.122100830078125,
+            -109.26730346679688
+        ],
+        "name": "RLMT",
+        "observed": null,
+        "start_signal": 600,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 325.4419086358612,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 50.996123764515524,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_US_EGMT_BHZ.sac",
+        "location": [
+            48.02399826049805,
+            -109.75469970703125
+        ],
+        "name": "EGMT",
+        "observed": null,
+        "start_signal": 600,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 327.178496038694,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 78.11774626093904,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_II_KDAK_BHZ.sac",
+        "location": [
+            57.782798767089844,
+            -152.58349609375
+        ],
+        "name": "KDAK",
+        "observed": null,
+        "start_signal": 603,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 328.9175662705593,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 41.1901789813268,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_US_ECSD_BHZ.sac",
+        "location": [
+            43.733699798583984,
+            -96.61409759521484
+        ],
+        "name": "ECSD",
+        "observed": null,
+        "start_signal": 599,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 334.53532143830193,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 76.11073885378077,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_IU_COLA_BHZ.sac",
+        "location": [
+            64.87359619140625,
+            -147.86160278320312
+        ],
+        "name": "COLA",
+        "observed": null,
+        "start_signal": 602,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 336.01606071101264,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 51.52777431559155,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_II_FFC_BHZ.sac",
+        "location": [
+            54.724998474121094,
+            -101.97830200195312
+        ],
+        "name": "FFC",
+        "observed": null,
+        "start_signal": 599,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 346.260023873103,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 31.23588114820118,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_IU_SSPA_BHZ.sac",
+        "location": [
+            40.635799407958984,
+            -77.88760375976562
+        ],
+        "name": "SSPA",
+        "observed": null,
+        "start_signal": 597,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 355.802367729166,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 32.09396603497285,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_IU_HRV_BHZ.sac",
+        "location": [
+            42.50640106201172,
+            -71.55829620361328
+        ],
+        "name": "HRV",
+        "observed": null,
+        "start_signal": 596,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 359.0584045395059,
+        "component": "BHZ",
+        "derivative": false,
+        "distance": 34.748021553656805,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/P/processed_US_PKME_BHZ.sac",
+        "location": [
+            45.264400482177734,
+            -69.29170227050781
+        ],
+        "name": "PKME",
+        "observed": null,
+        "start_signal": 596,
+        "synthetic": [],
+        "trace_weight": 1.0,
+        "wavelet_weight": "0 1 1 1 1 1 1 1\n"
+    },
+    {
+        "azimuth": 11.17872486891652,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 77.99439073114831,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_IU_KBS_BHT.sac",
+        "location": [
+            78.91539764404297,
+            11.93850040435791
+        ],
+        "name": "KBS",
+        "observed": null,
+        "start_signal": 603,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 20.506168005533304,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 63.33457815149888,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_II_BORG_BHT.sac",
+        "location": [
+            64.74739837646484,
+            -21.326799392700195
+        ],
+        "name": "BORG",
+        "observed": null,
+        "start_signal": 600,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 30.784404280530122,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 75.09282925275812,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_IU_KONO_BHT.sac",
+        "location": [
+            59.652099609375,
+            9.594599723815918
+        ],
+        "name": "KONO",
+        "observed": null,
+        "start_signal": 604,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 38.939133387571786,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 86.9234291399701,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_IU_KIEV_BHT.sac",
+        "location": [
+            50.70119857788086,
+            29.224199295043945
+        ],
+        "name": "KIEV",
+        "observed": null,
+        "start_signal": 607,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 45.4909491527524,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 70.81351069514207,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_G_SSB_BHT.sac",
+        "location": [
+            45.27899932861328,
+            4.541999816894531
+        ],
+        "name": "SSB",
+        "observed": null,
+        "start_signal": 606,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 50.83936393197726,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 63.61982496946372,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_IU_PAB_BHT.sac",
+        "location": [
+            39.54460144042969,
+            -4.349899768829346
+        ],
+        "name": "PAB",
+        "observed": null,
+        "start_signal": 605,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 62.12087119339435,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 51.84684135899903,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_IU_MACI_BHT.sac",
+        "location": [
+            28.250200271606445,
+            -16.50819969177246
+        ],
+        "name": "MACI",
+        "observed": null,
+        "start_signal": 606,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 69.28954138127011,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 71.52339841091478,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_G_TAM_BHT.sac",
+        "location": [
+            22.79149055480957,
+            5.528379917144775
+        ],
+        "name": "TAM",
+        "observed": null,
+        "start_signal": 608,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 79.73011917322766,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 51.005896917560094,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_G_SOK_BHT.sac",
+        "location": [
+            14.494490623474121,
+            -16.456298828125
+        ],
+        "name": "SOK",
+        "observed": null,
+        "start_signal": 607,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 106.69325635829662,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 57.02860348935508,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_II_ASCN_BHT.sac",
+        "location": [
+            -7.932700157165527,
+            -14.360099792480469
+        ],
+        "name": "ASCN",
+        "observed": null,
+        "start_signal": 605,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 112.27064949475535,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 67.56355555067813,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_II_SHEL_BHT.sac",
+        "location": [
+            -15.959400177001953,
+            -5.745500087738037
+        ],
+        "name": "SHEL",
+        "observed": null,
+        "start_signal": 604,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 135.43848742151164,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 70.86425846534073,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_G_TRIS_BHT.sac",
+        "location": [
+            -37.06809997558594,
+            -12.315199851989746
+        ],
+        "name": "TRIS",
+        "observed": null,
+        "start_signal": 598,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 148.98086793104426,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 39.688652087666924,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_G_SPB_BHT.sac",
+        "location": [
+            -23.59269142150879,
+            -47.426979064941406
+        ],
+        "name": "SPB",
+        "observed": null,
+        "start_signal": 592,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 172.72601923574427,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 62.591474760508,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_II_EFI_BHT.sac",
+        "location": [
+            -51.67530059814453,
+            -58.06370162963867
+        ],
+        "name": "EFI",
+        "observed": null,
+        "start_signal": 589,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 178.02879549860327,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 75.13786136156646,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_IU_PMSA_BHT.sac",
+        "location": [
+            -64.77439880371094,
+            -64.04889678955078
+        ],
+        "name": "PMSA",
+        "observed": null,
+        "start_signal": 592,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 225.54664510752107,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 54.50248462338155,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_II_RPN_BHT.sac",
+        "location": [
+            -27.126699447631836,
+            -109.33439636230469
+        ],
+        "name": "RPN",
+        "observed": null,
+        "start_signal": 596,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 251.00268879648888,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 84.8650736371784,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_G_PPTF_BHT.sac",
+        "location": [
+            -17.589599609375,
+            -149.56524658203125
+        ],
+        "name": "PPTF",
+        "observed": null,
+        "start_signal": 605,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 288.9993226320225,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 83.87609572324901,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_IU_POHA_BHT.sac",
+        "location": [
+            19.757299423217773,
+            -155.5325927734375
+        ],
+        "name": "POHA",
+        "observed": null,
+        "start_signal": 608,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 309.8629502070001,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 50.430716718905394,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_US_TPNV_BHT.sac",
+        "location": [
+            36.94879913330078,
+            -116.24949645996094
+        ],
+        "name": "TPNV",
+        "observed": null,
+        "start_signal": 603,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 316.6322631670027,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 57.96482427856908,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_IU_COR_BHT.sac",
+        "location": [
+            44.58549880981445,
+            -123.30460357666016
+        ],
+        "name": "COR",
+        "observed": null,
+        "start_signal": 603,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 324.2293513980211,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 45.49733601916629,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_IU_RSSD_BHT.sac",
+        "location": [
+            44.12120056152344,
+            -104.03589630126953
+        ],
+        "name": "RSSD",
+        "observed": null,
+        "start_signal": 599,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 334.53532143830193,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 76.11073885378077,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_IU_COLA_BHT.sac",
+        "location": [
+            64.87359619140625,
+            -147.86160278320312
+        ],
+        "name": "COLA",
+        "observed": null,
+        "start_signal": 604,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 336.01606071101264,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 51.52777431559155,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_II_FFC_BHT.sac",
+        "location": [
+            54.724998474121094,
+            -101.97830200195312
+        ],
+        "name": "FFC",
+        "observed": null,
+        "start_signal": 598,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 346.260023873103,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 31.23588114820118,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_IU_SSPA_BHT.sac",
+        "location": [
+            40.635799407958984,
+            -77.88760375976562
+        ],
+        "name": "SSPA",
+        "observed": null,
+        "start_signal": 594,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    },
+    {
+        "azimuth": 355.802367729166,
+        "component": "BHT",
+        "derivative": false,
+        "distance": 32.09396603497285,
+        "dt": 0.2,
+        "duration": 500,
+        "file": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.2/data/SH/processed_IU_HRV_BHT.sac",
+        "location": [
+            42.50640106201172,
+            -71.55829620361328
+        ],
+        "name": "HRV",
+        "observed": null,
+        "start_signal": 593,
+        "synthetic": [],
+        "trace_weight": 0.5,
+        "wavelet_weight": "0 1 1 1 1 1 1 0\n"
+    }
+]

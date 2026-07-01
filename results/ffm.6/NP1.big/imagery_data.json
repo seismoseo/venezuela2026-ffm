@@ -1,0 +1,14 @@
+{
+  "insar": [
+    {
+      "name": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.6/NP1.big/insar/s1-p106-20260623-20260624_resampled.txt",
+      "weight": 1.0,
+      "ramp": "linear"
+    },
+    {
+      "name": "/home/msseo/works/17.Venezuela_2026/wisp/20260624220433/ffm.6/NP1.big/insar/s1-p25-20260618-20260625_resampled.txt",
+      "weight": 1.0,
+      "ramp": "linear"
+    }
+  ]
+}
